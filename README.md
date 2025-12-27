@@ -1,6 +1,6 @@
 # CNN-text-classification-keras
 
-It is simplified implementation of [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/) in Keras as functional api
+It is simplified implementation of [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2025/12/implementing-a-cnn-for-text-classification-in-tensorflow/) in Keras as functional api
 
 # Requirements
 - [Python 3.5.2](https://www.python.org/)
@@ -20,7 +20,7 @@ You have to rebuild the vocabulary and then train.
 @misc{viral2525,
   author = {Patoliya Viral},
   title = {CNN-text-classification-keras},
-  year = {2016},
+  year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/viral2525/CNN-text-classification-keras}},
