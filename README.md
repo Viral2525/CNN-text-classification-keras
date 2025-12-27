@@ -23,6 +23,6 @@ You have to rebuild the vocabulary and then train.
   year = {2016},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/bhaveshoswal/CNN-text-classification-keras}},
+  howpublished = {\url{https://github.com/viral2525/CNN-text-classification-keras}},
 }
 ```
