@@ -17,7 +17,7 @@ You have to rebuild the vocabulary and then train.
 
 # For Citation
 ```
-@misc{bhaveshoswal,
+@misc{viral2525,
   author = {Patoliya Viral},
   title = {CNN-text-classification-keras},
   year = {2016},
